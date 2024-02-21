@@ -9,11 +9,8 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.Observable;
-
-
-import Main.Cell;
 /**
- * The Model class represents the data model of the application.
+ * The class represents the forest model.
  * It contains methods to manage the simulation and handle data storage.
  * This class was created by Tomas Arzola Roeber
  */
